@@ -1,0 +1,2 @@
+latest_version=1.5.1
+critical_update=false
