@@ -1,2 +1,2 @@
-latest_version=1.5.4
+latest_version=1.6.4
 critical_update=false
